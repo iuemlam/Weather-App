@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamil Nadu Weather App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        #result {
+            display: none;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Weather App for Tamil Nadu</h1>
+
+    <label for="district">Enter District Name: </label>
+    <input type="text" id="district" placeholder="e.g. Chennai">
+    <button onclick="getWeather()">Get Weather</button>
+
+    <div id="result">
+        <h2>Weather Information:</h2>
+        <p><strong>District:</strong> <span id="district-name"></span></p>
+        <p><strong>Temperature:</strong> <span id="temperature"></span> °C</p>
+        <p><strong>Condition:</strong> <span id="condition"></span></p>
+        <p><strong>Humidity:</strong> <span id="humidity"></span> %</p>
+        <p><strong>Wind Speed:</strong> <span id="wind"></span></p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
